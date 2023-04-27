@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-26T21:04:33 CDT" name="Default suite" finished-at="2023-04-26T21:05:09 CDT" duration-ms="36080">
+    <groups>
+    </groups>
+    <test started-at="2023-04-26T21:04:33 CDT" name="Default test" finished-at="2023-04-26T21:05:09 CDT" duration-ms="36080">
+      <class name="tests.YahooPageTest2">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:tests.YahooPageTest2@44a7bfbc]" started-at="2023-04-26T21:04:33 CDT" name="initialize" finished-at="2023-04-26T21:04:37 CDT" duration-ms="3719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="getAllTabDetailsOnTabItemByTextOnHomePageTest()[pri:1, instance:tests.YahooPageTest2@44a7bfbc]" started-at="2023-04-26T21:04:37 CDT" name="getAllTabDetailsOnTabItemByTextOnHomePageTest" finished-at="2023-04-26T21:04:45 CDT" duration-ms="8504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllTabDetailsOnTabItemByTextOnHomePageTest -->
+        <test-method is-config="true" signature="ScreenShotEveryMethod()[pri:0, instance:tests.YahooPageTest2@44a7bfbc]" started-at="2023-04-26T21:04:45 CDT" name="ScreenShotEveryMethod" finished-at="2023-04-26T21:04:46 CDT" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShotEveryMethod -->
+        <test-method signature="clickOnTabItemByTextOnHomePageTest()[pri:2, instance:tests.YahooPageTest2@44a7bfbc]" started-at="2023-04-26T21:04:46 CDT" name="clickOnTabItemByTextOnHomePageTest" finished-at="2023-04-26T21:05:06 CDT" duration-ms="19356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTabItemByTextOnHomePageTest -->
+        <test-method is-config="true" signature="ScreenShotEveryMethod()[pri:0, instance:tests.YahooPageTest2@44a7bfbc]" started-at="2023-04-26T21:05:06 CDT" name="ScreenShotEveryMethod" finished-at="2023-04-26T21:05:07 CDT" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShotEveryMethod -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:tests.YahooPageTest2@44a7bfbc]" started-at="2023-04-26T21:05:07 CDT" name="TeardownTest" finished-at="2023-04-26T21:05:09 CDT" duration-ms="2472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- tests.YahooPageTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
